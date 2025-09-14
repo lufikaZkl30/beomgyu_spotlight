@@ -25,5 +25,5 @@ AI digunakan sebagai asisten untuk:
 
 > **Catatan:** AI tidak digunakan pada produk akhir, hanya saat proses pengembangan.
 
-## 📸 Demo
+## Demo
 https://beomgyu-spotlight-lufikaayu.netlify.app/
