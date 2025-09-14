@@ -14,8 +14,8 @@ Website ini dibuat sebagai bagian dari **Capstone Project** menggunakan **HTML, 
 ## Teknologi yang Digunakan
 - HTML5
 - CSS (Flexbox, Grid, Animation)
-- JavaScript (DOM interaction)
-- Hosting (Netlify / Vercel)
+- JavaScript 
+- Hosting (Netlify)
 
 ## Dukungan AI
 AI digunakan sebagai asisten untuk:
